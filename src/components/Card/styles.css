@@ -64,3 +64,9 @@
 .card--active .card__img {
   transform: scale(1);
 }
+
+@media (max-width: 768px) {
+  .card {
+    height: 80px;
+  }
+}
