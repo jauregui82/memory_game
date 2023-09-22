@@ -1,4 +1,4 @@
-# Project Name
+# Memory Game
 
 **Project Description:** This project is a test application created as part of my job application process. It serves as a demonstration of my skills and abilities in web development using modern technologies.
 
