@@ -42,3 +42,11 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Demo
+
+You can check out a live demo of this project at the following link:
+
+[Live Demo](https://radiant-sunburst-21c7f7.netlify.app)
+
+The live demo has been deployed on Netlify for you to explore the project in action.
