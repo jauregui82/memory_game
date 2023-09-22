@@ -1,8 +1,44 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Project Description:** This project is a test application created as part of my job application process. It serves as a demonstration of my skills and abilities in web development using modern technologies.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite: 4.4.5
+- React: 18.2.0
+- React-Query: 4.35.3
+- Tailwind CSS: 3.3.3
+
+## Getting Started
+
+To get a local copy of this test project and run it on your machine, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/jauregui82/memory_game.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd memory_game
+```
+
+3. Install project dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm install
+```
+
+3. Install project dependencies:
+
+```bash
+npm run dev
+```
