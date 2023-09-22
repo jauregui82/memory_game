@@ -6,7 +6,7 @@ const App = () => {
   return (
     <Routes>
       <Route path="/" element={<Start />} />
-      <Route path="/game" element={<Memory />} />
+      <Route path="/game/:userName" element={<Memory />} />
     </Routes>
   );
 };

@@ -15,7 +15,7 @@ body {
 body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  background-color: #fae19d;
+  background-color: #dfd5fdc9;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,4 +24,11 @@ body {
 h1 {
   text-align: center;
   margin-bottom: 1em;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: 0.6em;
 }
